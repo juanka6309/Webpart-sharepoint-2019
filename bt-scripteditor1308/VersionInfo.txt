@@ -1,0 +1,49 @@
+Version 1.3.0.8 - 02.03.2022
+-lic update
+-internal update
+
+Version 1.3.0.5 - 09.07.2021
+-Internal onLoad update to fix a bug in edit mode not showing the Edit snipped section.
+
+Version 1.3.0.4 - 09.06.2021
+-Internal update; executing scripts sequently. Much more compatiblity with old scripts or scripts from the internet
+
+Version 1.3.0.3 - 10.16.2020 (us date)
+-set background transparent function adjusted
+
+Version 1.3.0.1 - 08.05.2020
+-optimized loading time.
+
+Version 1.3.0.0 - 11.03.2020
+-New license location! /Bitalus/License/Product.txt (Hidden Folder!)
+Needs to migrate from old location manually: /style library/Bitalus/License/Product.txt if available
+
+Version 1.1.0.7 - 22.02.2020
+-lk: Multiple WebApplications support
+
+Version 1.1.0.6 - 1.11.2019
+-Internal fix2 - AppCatalog Check
+
+Version 1.1.0.5 - 28.10.2019
+-Modern Background
+-Internal fix - AppCatalog Check
+
+Version 1.1.0.4 - 21.08.2019
+-License text updated. 
+
+Version 1.1.0.3 - 17.07.2019
+-Manifest Update
+
+Version 1.1.0.2 - 04.07.2019
+-Support for txt license file stored on clients tenant to reduce API Calls.
+-Bundle txt file support
+
+Version 1.1.0.1 - 30.05.2018
+-included files to package.
+-License function updated to also support license text files.
+
+Version 1.0.0.3 - 01.11.2018
+-New Property: "Output option" whether to hide or display the Web Parts output in display mode.
+
+Version 1.0.0.0 - 12.07.2018
+-First release
